@@ -10,7 +10,7 @@ IT professional building hands-on experience through projects in networking, cyb
 
 ## Projects
 
-### 🏢 [Active Directory Home Lab](https://github.com/willbarr-IT/LABURL)
+### 🏢 [Active Directory Home Lab](https://github.com/willbarr-IT/ActiveDirectoryLab)
 Hands-on lab covering:
 - Domain controller setup
 - User and group management
