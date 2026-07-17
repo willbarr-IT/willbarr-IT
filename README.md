@@ -19,7 +19,7 @@ Hands-on lab covering:
 - Windows administration
 
 ### 🌐 Networking Lab
-(coming soon)
+*(Coming Soon)*
 
 
 
