@@ -6,7 +6,7 @@ Aspiring IT professional building hands-on experience across Networking, Cyberse
 
 - 🎓 B.S. in Management Information Systems
 - 🔐 CompTIA Security+ Certified ([Credly Badge](https://www.credly.com/badges/e3ffa457-90dc-47e4-99ba-afaa479e647a/public_url))
-- 💻 Interested in System Administration, Network Engineering, and Cybersecurity Analysis
+- 💻 Interested in System Administration, Core Networking, and Cybersecurity Analysis
 
 ## Projects
 
