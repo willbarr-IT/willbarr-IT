@@ -18,18 +18,18 @@ Hands-on lab covering:
 - Group Policy
 - Windows administration
 
-### 🌐 [Core Network Services - DHCP Server](https://github.com/willbarr-IT/CoreNetworkServices-DHCP)
+### 🌐 [DHCP Server Lab](https://github.com/willbarr-IT/CoreNetworkServices-DHCP)
 Hands-on lab covering:
 - DHCP Server role deployment on an existing Domain Controller
 - Scope creation with default gateway and DNS server settings
 - DHCP lease assignment and client verification
 
-### 🛡️ [Network Perimeter Security - Firewall & DMZ Lab](https://github.com/willbarr-IT/Firewall-DMZLab)
+### 🛡️ [Firewall & DMZ Lab](https://github.com/willbarr-IT/Firewall-DMZLab)
 Hands-on lab covering:
 - Network segmentation utilizing a three-interface firewall
 - Web server deployment within a dedicated DMZ segment
 - Firewall rule configuration for traffic access control and network isolation
 - DNS filtering and upstream DNS configuration
-- Network routing verification and external connectivity testing
+- Network routing and external connectivity testing
 
 
