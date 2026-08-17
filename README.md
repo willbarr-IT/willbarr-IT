@@ -18,8 +18,10 @@ Hands-on lab covering:
 - Group Policy
 - Windows administration
 
-### 🌐 Networking Lab
-*(Coming Soon)*
+### 🌐 [Core Network Services - DHCP Server](https://github.com/willbarr-IT/CoreNetworkServices-DHCP)
+Hands-on lab covering:
+- DHCP Server deployment and configuration on an existing Domain Controller
+
 
 
 
