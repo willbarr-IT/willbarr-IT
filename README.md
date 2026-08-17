@@ -20,14 +20,16 @@ Hands-on lab covering:
 
 ### 🌐 [Core Network Services - DHCP Server](https://github.com/willbarr-IT/CoreNetworkServices-DHCP)
 Hands-on lab covering:
-- DHCP Server deployment and configuration on an existing Domain Controller
+- DHCP Server role deployment on an existing Domain Controller
+- Scope creation with default gateway and DNS server settings
+- DHCP lease assignment and client verification
 
 ### 🛡️ [Network Perimeter Security - Firewall & DMZ Lab](https://github.com/willbarr-IT/Firewall-DMZLab)
 Hands-on lab covering:
 - Network segmentation utilizing a three-interface firewall
-- Deployment of a web server within the DMZ segment
-- Firewall rule configuration for internal and external traffic access control
-- Firewall customization including DNS filtering and upstream servers
+- Web server deployment within a dedicated DMZ segment
+- Firewall rule configuration for traffic access control and network isolation
+- DNS filtering and upstream DNS configuration
 - Network routing verification and external connectivity testing
 
 
