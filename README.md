@@ -22,6 +22,12 @@ Hands-on lab covering:
 Hands-on lab covering:
 - DHCP Server deployment and configuration on an existing Domain Controller
 
-
+### 🛡️ [Network Perimeter Security - Firewall & DMZ Lab](https://github.com/willbarr-IT/Firewall-DMZLab)
+Hands-on lab covering:
+- Network segmentation utilizing a three-interface firewall
+- Deployment of a web server within the DMZ segment
+- Firewall rule configuration for internal and external traffic access control
+- Firewall customization including DNS filtering and upstream servers
+- Network routing verification and external connectivity testing
 
 
