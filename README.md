@@ -24,7 +24,7 @@ Hands-on lab covering:
 - Scope creation with default gateway and DNS server options
 - DHCP lease assignment and client verification
 
-### 🛡️ [Firewall & DMZ Lab](https://github.com/willbarr-IT/Firewall-DMZLab)
+### 🛡️ [Firewall & DMZ Lab](https://github.com/willbarr-IT/NetworkPerimeterSecurity-Firewall-DMZ)
 Hands-on lab covering:
 - Network segmentation utilizing a three-interface firewall
 - Web server deployment within a dedicated DMZ segment
