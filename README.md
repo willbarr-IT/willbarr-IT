@@ -21,7 +21,7 @@ Hands-on lab covering:
 ### 🌐 [DHCP Server Lab](https://github.com/willbarr-IT/CoreNetworkServices-DHCP)
 Hands-on lab covering:
 - DHCP Server role deployment on an existing Domain Controller
-- Scope creation with default gateway and DNS server settings
+- Scope creation with default gateway and DNS server options
 - DHCP lease assignment and client verification
 
 ### 🛡️ [Firewall & DMZ Lab](https://github.com/willbarr-IT/Firewall-DMZLab)
