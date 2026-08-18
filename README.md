@@ -16,7 +16,7 @@ Hands-on lab covering:
 - User and group management
 - Organizational Units (OUs)
 - Group Policy
-- Windows administration
+- NTFS permissions and SMB file sharing
 
 ### 🌐 [DHCP Server Lab](https://github.com/willbarr-IT/CoreNetworkServices-DHCP)
 Hands-on lab covering:
